@@ -1,0 +1,14 @@
+{
+  "username": "Usuário",
+  "time_in_platform": "Tempo na Plataforma",
+  "most_projects": "Mais Projectos",
+  "error_loading_users": "Alguma coisa correu mal ao carregar os usuários. Tente Novamente.",
+  "looking_someone": "À procura de alguém?",
+  "name": "Nome",
+  "joined": "Desde",
+  "projects": "Projectos",
+  "balance": "Saldo",
+  "could_not_find_match": "Não encontrou ninguém como o termo",
+  "community": "Communidade",
+  "search_members": "Encontrar Membros"
+}
