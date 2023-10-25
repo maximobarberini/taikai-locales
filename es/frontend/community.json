@@ -1,0 +1,14 @@
+{
+  "username": "Username",
+  "time_in_platform": "Time in platform",
+  "most_projects": "Most Projects",
+  "error_loading_users": "Something went wrong loading the users. Please try again.",
+  "looking_someone": "Looking for someone?",
+  "name": "Name",
+  "joined": "Joined",
+  "projects": "Projects",
+  "balance": "Balance",
+  "could_not_find_match": "Couldn't find a match for: ",
+  "community": "Community",
+  "search_members": "Search Members"
+}
